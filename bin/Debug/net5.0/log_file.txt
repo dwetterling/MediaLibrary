@@ -1,0 +1,70 @@
+2022-02-28 12:54:38.8181|INFO|MediaLibrary.Program|Program started
+2022-02-28 12:54:38.9080|INFO|MediaLibrary.Program|Program ended
+2022-02-28 12:57:11.1688|INFO|MediaLibrary.Program|Program started
+2022-02-28 12:57:11.2356|INFO|MediaLibrary.Program|Program ended
+2022-02-28 12:58:40.9081|INFO|MediaLibrary.Program|Program started
+2022-02-28 12:58:40.9828|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:01:40.0875|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:01:40.1718|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:05:08.3170|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:05:08.4078|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:06:02.1019|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:06:02.2050|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:25:03.3680|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:25:03.4992|INFO|MediaLibrary.FileScrubber|File scrub started
+2022-02-28 13:25:03.6462|ERROR|MediaLibrary.FileScrubber|String 'Horror' was not recognized as a valid TimeSpan.
+2022-02-28 13:25:03.6650|INFO|MediaLibrary.Program|
+2022-02-28 13:25:03.6964|ERROR|MediaLibrary.MovieFile|Empty path name is not legal.
+2022-02-28 13:25:03.7271|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:25:55.4455|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:25:55.5914|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-02-28 13:25:55.6237|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-02-28 13:25:55.7562|INFO|MediaLibrary.MovieFile|Movies in file 9098
+2022-02-28 13:25:55.8159|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:32:46.7656|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:32:46.8452|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:40:19.1708|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:40:19.2808|INFO|MediaLibrary.FileScrubber|File scrub started
+2022-02-28 13:40:19.3744|ERROR|MediaLibrary.FileScrubber|String 'Horror' was not recognized as a valid TimeSpan.
+2022-02-28 13:40:19.3964|INFO|MediaLibrary.Program|
+2022-02-28 13:40:19.4155|ERROR|MediaLibrary.MovieFile|Empty path name is not legal.
+2022-02-28 13:40:19.4356|INFO|MediaLibrary.Program|Program ended
+2022-02-28 13:41:42.5509|INFO|MediaLibrary.Program|Program started
+2022-02-28 13:41:42.6589|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-02-28 13:41:42.6790|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-02-28 13:41:42.7600|INFO|MediaLibrary.MovieFile|Movies in file 9098
+2022-02-28 13:41:42.7949|INFO|MediaLibrary.Program|Program ended
+2022-03-07 02:05:12.4315|INFO|MediaLibrary.Program|Program started
+2022-03-07 02:05:12.5921|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-07 02:05:12.6075|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-07 02:05:12.7079|INFO|MediaLibrary.MovieFile|Movies in file 9098
+2022-03-07 02:05:12.7370|INFO|MediaLibrary.Program|Program ended
+2022-03-07 02:07:08.9837|INFO|MediaLibrary.Program|Program started
+2022-03-07 02:07:09.0849|INFO|MediaLibrary.FileScrubber|File scrub started
+2022-03-07 02:07:09.1803|ERROR|MediaLibrary.FileScrubber|String 'Horror' was not recognized as a valid TimeSpan.
+2022-03-07 02:07:09.2105|INFO|MediaLibrary.Program|
+2022-03-07 02:07:09.2311|ERROR|MediaLibrary.MovieFile|Empty path name is not legal.
+2022-03-07 02:07:09.2484|INFO|MediaLibrary.Program|Program ended
+2022-03-07 02:08:16.3729|INFO|MediaLibrary.Program|Program started
+2022-03-07 02:08:16.4756|INFO|MediaLibrary.FileScrubber|File scrub started
+2022-03-07 02:08:16.5755|ERROR|MediaLibrary.FileScrubber|String 'Horror' was not recognized as a valid TimeSpan.
+2022-03-07 02:08:16.6010|INFO|MediaLibrary.Program|
+2022-03-07 02:08:16.6223|ERROR|MediaLibrary.MovieFile|Empty path name is not legal.
+2022-03-07 02:08:16.6400|INFO|MediaLibrary.Program|Program ended
+2022-03-07 02:10:51.2723|INFO|MediaLibrary.Program|Program started
+2022-03-07 02:10:51.3699|INFO|MediaLibrary.FileScrubber|File scrub started
+2022-03-07 02:10:51.4891|ERROR|MediaLibrary.FileScrubber|Index was outside the bounds of the array.
+2022-03-07 02:10:51.5169|INFO|MediaLibrary.Program|
+2022-03-07 02:10:51.5576|ERROR|MediaLibrary.MovieFile|Empty path name is not legal.
+2022-03-07 02:10:51.5907|INFO|MediaLibrary.Program|Program ended
+2022-03-07 02:16:36.3835|INFO|MediaLibrary.Program|Program started
+2022-03-07 02:16:36.5276|INFO|MediaLibrary.FileScrubber|File scrub started
+2022-03-07 02:16:36.7560|INFO|MediaLibrary.FileScrubber|File scrub ended
+2022-03-07 02:16:36.7905|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-07 02:16:36.9067|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2022-03-07 02:16:36.9503|INFO|MediaLibrary.Program|Program ended
+2022-03-21 14:42:26.0947|INFO|MediaLibrary.Program|Program started
+2022-03-21 14:42:26.1932|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-21 14:42:26.2140|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-21 14:42:26.3212|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2022-03-21 14:42:32.4634|INFO|MediaLibrary.Program|Program ended
